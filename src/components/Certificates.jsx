@@ -3,19 +3,19 @@ const certificates = [
     id: 1,
     name: 'Computational Theory',
     organization: 'Infosys',
-    image: '/certificates/cert1.png',
+    image: 'certificates/cert1.png',
   },
   {
     id: 2,
     name: 'Generative AI Apps',
     organization: 'Infosys',
-    image: '/certificates/cert2.png',
+    image: 'certificates/cert2.png',
   },
   {
     id: 3,
     name: 'ChatGPT Prompt Engineering',
     organization: 'Infosys',
-    image: '/certificates/cert3.png',
+    image: 'certificates/cert3.png',
   },
 ];
 

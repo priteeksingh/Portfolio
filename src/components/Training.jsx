@@ -1,4 +1,4 @@
-const trainingPreview = '/certificates/achievement.png';
+const trainingPreview = 'certificates/achievement.png';
 
 export default function Training() {
   return (

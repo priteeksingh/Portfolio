@@ -51,7 +51,7 @@ export default function App() {
             </p>
             <div className="mt-6 flex justify-center">
               <a
-                href="/resume.pdf"
+                href="resume.pdf"
                 download="Priteek-Singh-Manhas-Resume.pdf"
                 className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-indigo-500 to-sky-500 px-6 py-2.5 text-sm font-semibold text-slate-950 shadow-glow transition hover:brightness-110"
               >
