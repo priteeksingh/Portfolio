@@ -1,2 +1,0 @@
-origin	https://github.com/Himanshumagotra/portfolio.git (fetch)
-origin	https://github.com/Himanshumagotra/portfolio.git (push)
