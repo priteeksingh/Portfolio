@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build_output.log
+remote.txt
+status.txt
+.env
+.DS_Store
