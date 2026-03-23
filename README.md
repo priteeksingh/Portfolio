@@ -4,11 +4,6 @@ A modern and responsive portfolio website built using React to showcase my proje
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-portfolio-link.com
-
----
-
 ## 📌 Features
 - ✨ Modern UI with animations
 - 📱 Fully responsive design
@@ -48,13 +43,3 @@ A modern and responsive portfolio website built using React to showcase my proje
 - Infosys – Generative AI No-Code Tools  
 - Infosys – Computational Theory  
 
----
-
-## 📦 Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
